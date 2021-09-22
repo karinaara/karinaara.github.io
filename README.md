@@ -1,6 +1,4 @@
-# karinaara.github.io
-
-Tugas KMMI Kelompok A01 
+# Tugas KMMI Kelompok A01 
 
 Anggota:
 1. Karina Widya Ramadhani
